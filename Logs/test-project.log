@@ -1,0 +1,218 @@
+2021-04-15 16:44:20 INFO  StepsPage:29 - Arama Yapıldı
+2021-04-15 16:46:43 INFO  StepsPage:29 - Arama Yapıldı
+2021-04-15 16:46:43 INFO  StepsPage:35 - Yönlendirilen Sayfa : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 16:56:03 INFO  StepsPage:21 - Kullanıcı girişi yapıldı.
+2021-04-15 16:56:08 INFO  StepsPage:29 - Arama Yapıldı
+2021-04-15 16:56:08 INFO  StepsPage:35 - Arama Sonu Açılan Sayfa : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 16:56:10 INFO  StepsPage:42 - Random bir ürün seçildi.
+2021-04-15 16:56:11 INFO  StepsPage:52 - Ürün sepete eklendi.
+2021-04-15 16:56:14 INFO  StepsPage:60 - Sepetime giriş yapıldı.
+2021-04-15 16:56:14 INFO  StepsPage:74 - Ürün fiyatı doğrulandı.
+2021-04-15 16:56:14 INFO  StepsPage:83 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 16:56:14 INFO  StepsPage:89 - Ürün miktarı 2 olduğu kontrol edildi.
+2021-04-15 16:56:14 INFO  StepsPage:95 - Ürün sepetten çıkarıldı.
+2021-04-15 16:56:17 INFO  StepsPage:102 - Sepetin boş olduğu doğrulandı.
+2021-04-15 17:12:13 INFO  StepsPage:13 - Ana sayfa açıldı.GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 17:12:17 INFO  StepsPage:35 - Arama Yapıldı
+2021-04-15 17:14:03 INFO  StepsPage:13 - Ana sayfa açıldı :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 17:14:08 INFO  StepsPage:35 - Arama Yapıldı
+2021-04-15 17:14:08 INFO  StepsPage:41 - Arama Sonu Açılan Sayfa : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 17:14:11 INFO  StepsPage:48 - Random bir ürün seçildi.
+2021-04-15 17:14:11 INFO  StepsPage:58 - Ürün sepete eklendi :
+2021-04-15 17:14:14 INFO  StepsPage:66 - Sepetime giriş yapıldı.Sepetim - GittiGidiyor
+2021-04-15 17:14:14 INFO  StepsPage:80 - Ürün fiyatı doğrulandı.
+2021-04-15 17:14:15 INFO  StepsPage:89 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 17:14:15 INFO  StepsPage:95 - Ürün miktarı 2 olduğu kontrol edildi.
+2021-04-15 17:14:15 INFO  StepsPage:101 - Ürün sepetten çıkarıldı.
+2021-04-15 17:14:17 INFO  StepsPage:108 - Sepetin boş olduğu doğrulandı.
+2021-04-15 17:16:46 INFO  StepsPage:13 - Ana sayfa açıldı :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 17:17:41 INFO  StepsPage:35 - Arama Yapıldı
+2021-04-15 17:17:41 INFO  StepsPage:41 - Arama Sonucu Açılan Sayfa : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 17:17:44 INFO  StepsPage:48 - Random bir ürün seçildi.
+2021-04-15 17:17:44 INFO  StepsPage:58 - Ürün sepete eklendi.
+2021-04-15 17:17:48 INFO  StepsPage:66 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 17:17:48 INFO  StepsPage:80 - Ürün fiyatı doğrulandı.
+2021-04-15 17:17:48 INFO  StepsPage:89 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 17:17:48 INFO  StepsPage:95 - Ürün miktarı 2 olduğu kontrol edildi.
+2021-04-15 17:17:48 INFO  StepsPage:101 - Ürün sepetten çıkarıldı.
+2021-04-15 17:17:50 INFO  StepsPage:108 - Sepetin boş olduğu doğrulandı.
+2021-04-15 17:17:50 INFO  StepsPage:115 - Test başarıyla tamamlandı.
+2021-04-15 17:41:41 INFO  StepsPage:13 - --Ana sayfa doğrulandı -- :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 17:41:48 INFO  StepsPage:27 - --Kullanıcı giriş yaptığı doğrulandı.--
+2021-04-15 17:41:54 INFO  StepsPage:35 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 17:41:54 INFO  StepsPage:41 - Arama Sonucu 2. Sayfa Açıldığı Doğrulandı : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 17:41:58 INFO  StepsPage:48 - Random bir ürün seçildi.
+2021-04-15 17:41:59 INFO  StepsPage:58 - Ürün sepete eklendi.
+2021-04-15 17:42:02 INFO  StepsPage:66 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 17:42:02 INFO  StepsPage:80 - --Ürün fiyatı doğrulandı.--
+2021-04-15 17:42:03 INFO  StepsPage:89 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 17:42:03 INFO  StepsPage:95 - --Ürün miktarı 2 olduğu kontrol edildi.--
+2021-04-15 17:42:03 INFO  StepsPage:101 - Ürün sepetten çıkarıldı.
+2021-04-15 17:42:05 INFO  StepsPage:108 - Sepetin boş olduğu doğrulandı.
+2021-04-15 17:42:05 INFO  StepsPage:115 - Test başarıyla tamamlandı.
+2021-04-15 19:07:40 INFO  StepsPage:13 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 19:07:48 INFO  StepsPage:27 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-15 19:07:54 INFO  StepsPage:35 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 19:07:54 INFO  StepsPage:41 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 19:07:57 INFO  StepsPage:48 - Random bir ürün seçildi.
+2021-04-15 19:07:58 INFO  StepsPage:58 - Ürün sepete eklendi.
+2021-04-15 19:08:01 INFO  StepsPage:66 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 19:08:01 INFO  StepsPage:80 - !! Ürün fiyatı doğrulandı. !!
+2021-04-15 19:08:01 INFO  StepsPage:89 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 19:17:37 INFO  StepsPage:13 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 19:20:01 INFO  StepsPage:13 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 19:20:07 INFO  StepsPage:35 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 19:20:07 INFO  StepsPage:41 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 19:20:10 INFO  StepsPage:48 - Random bir ürün seçildi.
+2021-04-15 19:20:10 INFO  StepsPage:58 - Ürün sepete eklendi.
+2021-04-15 19:20:13 INFO  StepsPage:66 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 19:20:13 INFO  StepsPage:80 - !! Ürün fiyatı doğrulandı. !!
+2021-04-15 19:20:14 INFO  StepsPage:89 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 19:20:14 INFO  StepsPage:95 - !! Ürün miktarı 2 olduğu kontrol edildi. !!
+2021-04-15 19:20:14 INFO  StepsPage:101 - Ürün sepetten çıkarıldı.
+2021-04-15 19:20:16 INFO  StepsPage:108 - !! Sepetin boş olduğu doğrulandı. !!
+2021-04-15 19:20:16 INFO  StepsPage:115 - Test başarıyla tamamlandı.
+2021-04-15 22:06:48 INFO  StepsPage:13 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 22:06:56 INFO  StepsPage:27 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-15 22:07:01 INFO  StepsPage:35 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 22:07:01 INFO  StepsPage:41 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 22:07:04 INFO  StepsPage:48 - Random bir ürün seçildi.
+2021-04-15 22:07:04 INFO  StepsPage:58 - Ürün sepete eklendi.
+2021-04-15 22:07:07 INFO  StepsPage:66 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 22:07:08 INFO  StepsPage:80 - !! Ürün fiyatı doğrulandı. !!
+2021-04-15 22:07:08 INFO  StepsPage:89 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 22:07:55 INFO  StepsPage:13 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 22:08:03 INFO  StepsPage:27 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-15 22:08:08 INFO  StepsPage:35 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 22:08:08 INFO  StepsPage:41 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 22:08:11 INFO  StepsPage:48 - Random bir ürün seçildi.
+2021-04-15 22:08:11 INFO  StepsPage:58 - Ürün sepete eklendi.
+2021-04-15 22:08:15 INFO  StepsPage:66 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 22:08:15 INFO  StepsPage:80 - !! Ürün fiyatı doğrulandı. !!
+2021-04-15 22:08:15 INFO  StepsPage:89 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 22:08:15 INFO  StepsPage:95 - !! Ürün miktarı 2 olduğu kontrol edildi. !!
+2021-04-15 22:08:15 INFO  StepsPage:101 - Ürün sepetten çıkarıldı.
+2021-04-15 22:08:17 INFO  StepsPage:108 - !! Sepetin boş olduğu doğrulandı. !!
+2021-04-15 22:08:18 INFO  StepsPage:115 - Test başarıyla tamamlandı.
+2021-04-15 22:40:46 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 22:40:55 INFO  StepsPage:28 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-15 22:41:01 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 22:41:01 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 22:41:04 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-15 22:41:04 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-15 22:41:07 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 22:41:07 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-15 22:41:07 INFO  StepsPage:90 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 22:41:08 INFO  StepsPage:96 - !! Ürün miktarı 2 olduğu kontrol edildi. !!
+2021-04-15 22:41:08 INFO  StepsPage:102 - Ürün sepetten çıkarıldı.
+2021-04-15 22:41:10 INFO  StepsPage:109 - !! Sepetin boş olduğu doğrulandı. !!
+2021-04-15 22:41:10 INFO  StepsPage:116 - Test başarıyla tamamlandı.
+2021-04-15 23:16:11 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 23:16:19 INFO  StepsPage:28 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-15 23:16:25 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 23:16:26 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 23:16:31 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-15 23:16:32 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-15 23:16:35 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 23:16:35 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-15 23:16:35 INFO  StepsPage:90 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 23:16:35 INFO  StepsPage:96 - !! Ürün miktarı 2 olduğu kontrol edildi. !!
+2021-04-15 23:16:35 INFO  StepsPage:102 - Ürün sepetten çıkarıldı.
+2021-04-15 23:16:37 INFO  StepsPage:109 - !! Sepetin boş olduğu doğrulandı. !!
+2021-04-15 23:16:38 INFO  StepsPage:116 - Test başarıyla tamamlandı.
+2021-04-15 23:45:29 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 23:45:36 INFO  StepsPage:28 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-15 23:45:44 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 23:45:44 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 23:45:51 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-15 23:45:51 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-15 23:45:54 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 23:45:54 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-15 23:45:55 INFO  StepsPage:88 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 23:46:50 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 23:47:14 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 23:47:21 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-15 23:47:21 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-15 23:47:27 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-15 23:47:27 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-15 23:47:31 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-15 23:47:31 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-15 23:47:31 INFO  StepsPage:88 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-15 23:47:31 INFO  StepsPage:94 - !! Ürün miktarı 2 olduğu kontrol edildi. !!
+2021-04-15 23:47:31 INFO  StepsPage:100 - Ürün sepetten çıkarıldı.
+2021-04-15 23:47:34 INFO  StepsPage:107 - !! Sepetin boş olduğu doğrulandı. !!
+2021-04-15 23:47:34 INFO  StepsPage:114 - Test tamamlandı.
+2021-04-16 00:31:05 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:31:15 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-16 00:31:15 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-16 00:31:22 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-16 00:31:22 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-16 00:31:27 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-16 00:31:28 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-16 00:31:28 INFO  StepsPage:87 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-16 00:31:28 INFO  StepsPage:93 - !! Ürün miktarı 2 olduğu kontrol edildi. !!
+2021-04-16 00:31:28 INFO  StepsPage:99 - Ürün sepetten çıkarıldı.
+2021-04-16 00:31:30 INFO  StepsPage:106 - !! Sepetin boş olduğu doğrulandı. !!
+2021-04-16 00:31:31 INFO  StepsPage:113 - Test tamamlandı.
+2021-04-16 00:44:35 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:44:44 INFO  StepsPage:28 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-16 00:44:49 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-16 00:44:50 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-16 00:44:52 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-16 00:44:52 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-16 00:44:56 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-16 00:44:56 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-16 00:44:56 INFO  StepsPage:87 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-16 00:45:38 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:45:44 INFO  StepsPage:28 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-16 00:45:49 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-16 00:45:49 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-16 00:45:51 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-16 00:45:51 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-16 00:45:54 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-16 00:45:55 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-16 00:45:55 INFO  StepsPage:87 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-16 00:46:14 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:46:37 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:46:44 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-16 00:46:45 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-16 00:46:47 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-16 00:46:47 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-16 00:46:51 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-16 00:46:51 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-16 00:46:51 INFO  StepsPage:87 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-16 00:46:51 INFO  StepsPage:93 - !! Ürün miktarı 2 olduğu kontrol edildi. !!
+2021-04-16 00:46:51 INFO  StepsPage:99 - Ürün sepetten çıkarıldı.
+2021-04-16 00:46:53 INFO  StepsPage:106 - !! Sepetin boş olduğu doğrulandı. !!
+2021-04-16 00:46:53 INFO  StepsPage:113 - Test tamamlandı.
+2021-04-16 00:47:46 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:47:53 INFO  StepsPage:28 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-16 00:47:58 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-16 00:47:58 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-16 00:48:00 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-16 00:48:00 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-16 00:48:04 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-16 00:48:27 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:49:01 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:49:08 INFO  StepsPage:28 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-16 00:49:13 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-16 00:49:13 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-16 00:49:16 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-16 00:49:16 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-16 00:49:19 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-16 00:49:20 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-16 00:49:20 INFO  StepsPage:87 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-16 00:50:01 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-16 00:50:08 INFO  StepsPage:28 - !! Kullanıcı giriş yaptığı doğrulandı. !!
+2021-04-16 00:50:13 INFO  StepsPage:36 - Arama sonuçlarından 2. sayfa açıldı.
+2021-04-16 00:50:13 INFO  StepsPage:42 - !! Arama Sonucu 2. Sayfa Açıldığı Doğrulandı !! : Bilgisayar Dizüstü Bilgisayar (Laptop) Fiyatları - Notebook, Tablet PC - GittiGidiyor
+2021-04-16 00:50:16 INFO  StepsPage:49 - Random bir ürün seçildi.
+2021-04-16 00:50:16 INFO  StepsPage:59 - Ürün sepete eklendi.
+2021-04-16 00:50:19 INFO  StepsPage:67 - Sepetime giriş yapıldı : Sepetim - GittiGidiyor
+2021-04-16 00:50:19 INFO  StepsPage:81 - !! Ürün fiyatı doğrulandı. !!
+2021-04-16 00:50:19 INFO  StepsPage:87 - Ürün miktarı 2 olarak değiştirildi.
+2021-04-16 00:50:20 INFO  StepsPage:93 - !! Ürün miktarı 2 olduğu kontrol edildi. !!
+2021-04-16 00:50:20 INFO  StepsPage:99 - Ürün sepetten çıkarıldı.
+2021-04-16 00:50:22 INFO  StepsPage:106 - !! Sepetin boş olduğu doğrulandı. !!
+2021-04-16 00:50:22 INFO  StepsPage:113 - Test tamamlandı.
+2021-04-16 00:51:20 INFO  StepsPage:14 - !! Ana sayfa doğrulandı !! :GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
